@@ -9,4 +9,4 @@ Modules:
 
 Technology: Java
 Version Control: Git and GitHub
-Project Status: Testing In Progress
+Project status: Testing in Progress - Development Completed 
